@@ -29,6 +29,7 @@ const overwriteModeItems = [
   { title: '从不覆盖', value: 'never' },
   { title: '大小不一时覆盖', value: 'size' },
   { title: '保留较大', value: 'larger' },
+  { title: '保留较小', value: 'smaller' },
   { title: '总是覆盖', value: 'always' },
   { title: '仅保留最新版本', value: 'latest' },
 ]
